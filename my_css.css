@@ -3,5 +3,10 @@ h1{
 }
 
 #first-title{
-	color: orange;
+	color: red;
+	text-align: center;
+}
+
+body{
+	background-color: lightblue;
 }
