@@ -1,12 +1,19 @@
 h1{
-	color: purple;
+	color: red;
 }
 
 #first-title{
-	color: red;
+	color: maroon;
 	text-align: center;
 }
 
 body{
-	background-color: lightblue;
+	background-color: #999;
+}
+
+p {
+	background: #700;
+	color: white;
+	padding: 10px;
+	margin: 5px;
 }
